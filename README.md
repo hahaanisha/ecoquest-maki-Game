@@ -12,7 +12,7 @@ A 2D pixel-art RPG built with the [Maki framework](https://www.npmjs.com/package
 EcoQuest is an **eco-awareness top-down RPG**. Each level drops you into a tiled map — a City Park, an EcoSchool, and an Eco Factory — scattered with waste items. Your job: walk over waste to auto-pick it up, then carry it to the correct sorting bin before time runs out.
 
 Sort correctly → earn XP and extend your combo multiplier.
-Sort incorrectly → lose a heart ❤️.
+Sort incorrectly → lose a heart ❤️
 Lose all 3 hearts or run out of time → Game Over.
 
 ### Core Mechanics
