@@ -1,4 +1,6 @@
 export default {
   dev: true,
-  debug: false
+  debug: false,
+  base: './',
+  publicDir: 'assets'
 }
