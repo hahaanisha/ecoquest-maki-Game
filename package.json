@@ -1,0 +1,13 @@
+{
+  "name": "ecoquest",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "maki dev",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@tialops/maki": "^1.1.0",
+    "phaser": "^4.0.0"
+  }
+}
